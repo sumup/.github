@@ -6,6 +6,7 @@
 
 - [Android](https://github.com/sumup/sumup-android-sdk)
 - [iOS](https://github.com/sumup/sumup-ios-sdk)
+- [Node.js](https://github.com/sumup/sumup-ts)
 - [Golang](https://github.com/sumup/sumup-go)
 
 ## Developer tools
