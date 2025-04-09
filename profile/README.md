@@ -8,10 +8,12 @@
 - [iOS](https://github.com/sumup/sumup-ios-sdk)
 - [Node.js](https://github.com/sumup/sumup-ts)
 - [Golang](https://github.com/sumup/sumup-go)
+- [Agent Toolkit](https://github.com/sumup/sumup-agent-toolkit)
 
 ## Developer tools
 
 - [Postman collection](https://github.com/sumup/sumup-postman), also available within [Postman's API network](https://www.postman.com/sumupengineering/sumup-developers).
+- [SumUp Model Context Protocol (MCP) Server](https://github.com/sumup/sumup-agent-toolkit/tree/main/mcp).
 
 ## Open Source
 
