@@ -15,7 +15,7 @@
 
 - [Postman collection](https://github.com/sumup/sumup-postman), also available within [Postman's API network](https://www.postman.com/sumupengineering/sumup-developers)
 - [SumUp Model Context Protocol (MCP) Server](https://github.com/sumup/sumup-agent-toolkit/tree/main/mcp)
-- [OpenAPI](https://github.com/sumup/openapi) specification of the SumUp API
+- [OpenAPI](https://github.com/sumup/sumup-openapi) specification of the SumUp API
 
 ## Open Source
 
