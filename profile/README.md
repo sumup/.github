@@ -9,6 +9,7 @@
 - [Node.js](https://github.com/sumup/sumup-ts)
 - [Python](https://github.com/sumup/sumup-py)
 - [Go](https://github.com/sumup/sumup-go)
+- [Rust](https://github.com/sumup/sumup-rs)
 - [Agent Toolkit](https://github.com/sumup/sumup-agent-toolkit)
 
 ## Developer tools
