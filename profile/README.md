@@ -10,12 +10,12 @@
 - [Python](https://github.com/sumup/sumup-py)
 - [Go](https://github.com/sumup/sumup-go)
 - [Rust](https://github.com/sumup/sumup-rs)
-- [Agent Toolkit](https://github.com/sumup/sumup-agent-toolkit)
+- [AI Toolkit](https://github.com/sumup/sumup-ai)
 
 ## Developer tools
 
 - [Postman collection](https://github.com/sumup/sumup-postman), also available within [Postman's API network](https://www.postman.com/sumupengineering/sumup-developers)
-- [SumUp Model Context Protocol (MCP) Server](https://github.com/sumup/sumup-agent-toolkit/tree/main/mcp)
+- [SumUp Model Context Protocol (MCP) Server](https://github.com/sumup/sumup-mcp)
 - [OpenAPI](https://github.com/sumup/sumup-openapi) specification of the SumUp API
 
 ## Open Source
