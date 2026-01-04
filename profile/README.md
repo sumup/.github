@@ -10,6 +10,7 @@
 - [Python](https://github.com/sumup/sumup-py)
 - [Go](https://github.com/sumup/sumup-go)
 - [Rust](https://github.com/sumup/sumup-rs)
+- [.NET](https://github.com/sumup/sumup-dotnet) for C#, VB.NET, and F#
 - [AI Toolkit](https://github.com/sumup/sumup-ai)
 
 ## Developer tools
