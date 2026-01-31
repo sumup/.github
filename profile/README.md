@@ -8,6 +8,7 @@
 - [Python](https://github.com/sumup/sumup-py)
 - [Java](https://github.com/sumup/sumup-java)
 - [Go](https://github.com/sumup/sumup-go)
+- [PHP](https://github.com/sumup/sumup-php)
 - [Rust](https://github.com/sumup/sumup-rs)
 - [.NET](https://github.com/sumup/sumup-dotnet) for C#, VB.NET, and F#
 - [AI Toolkit](https://github.com/sumup/sumup-ai)
