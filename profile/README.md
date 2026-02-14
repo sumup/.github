@@ -20,9 +20,11 @@
 
 ## Developer tools
 
+- [SumUp Developer Portal](https://github.com/sumup/sumup-developer)
 - [Postman collection](https://github.com/sumup/sumup-postman), also available within [Postman's API network](https://www.postman.com/sumupengineering/sumup-developers)
 - [SumUp Model Context Protocol (MCP) Server](https://github.com/sumup/sumup-mcp)
 - [OpenAPI](https://github.com/sumup/sumup-openapi) specification of the SumUp API
+- [Agent Skills](https://github.com/sumup/sumup-skills) for teaching agents how to build with SumUp
 
 ## Open Source
 
