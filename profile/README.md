@@ -29,3 +29,5 @@ SumUp Open Source project are maintained under the [sumup-oss](https://github.co
 
 - [circuit-ui](https://github.com/sumup-oss/circuit-ui) - SumUp's design system for the web
 - [foundry](https://github.com/sumup-oss/foundry) - A toolkit for building web applications and libraries
+
+![Image of SumUp Solo and Solo Lite card readers](./readers.gif)
