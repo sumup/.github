@@ -1,13 +1,15 @@
-# Security Guidelines
+# Security Policy
+The security of SumUp products is of paramount importance to us, and we genuinely appreciate the community's efforts to identify and report vulnerabilities.
 
-This is an internal SumUp repository. Because access is restricted to authorized team members, you can use GitHub issues to raise awareness about security flaws so the hardware team can fix them.
+## Supported Versions
+We recommend users stay updated with the latest version of our project for optimal stability and security.
 
-## Reporting a Security Issue
+## Reporting a Vulnerability
+Please do not open GitHub issues or pull requests - this makes the vulnerability immediately visible to everyone, including malicious actors. 
+To get an invite to our Hackerone private bug bounty program reach out to us via bugbounty at sumup com.
+The SumUp security team will triage your report and determine whether or not is it eligible for a bounty under our program.
 
-Open a GitHub issue directly in this repository. Provide clear details or steps to reproduce the flaw, and apply a `security` label. This ensures the hardware team sees it, tracks it, and can collaborate on a fix.
-
-## Guidelines
-
-* **Keep it inside SumUp:** Do not share or discuss details of internal repository vulnerabilities outside of secure SumUp channels.
-* **Test safely:** Never perform security tests that compromise real user privacy, production systems, or system availability.
-* **When in doubt, log it:** If you spot a potential security risk but are not completely sure it is a flaw, open an issue anyway so the team can review it.
+## General Guidelines
+- **Prioritize Confidentiality:** We urge you not to disclose the vulnerability publicly until it's been addressed, ensuring the broader community isn't inadvertently put at risk.
+- **Ethical Practices:** Engage in responsible and ethical behavior. Refrain from actions that compromise user privacy, system integrity, or availability.
+- **When in Doubt, Reach Out:** If you're uncertain about the significance of a potential security issue, it's always better to err on the side of caution and notify us.
