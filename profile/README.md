@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="assets/payments-sky-rounded-960.png" alt="SumUp online and in-person payments" width="480">
-</p>
+<a href="https://developer.sumup.com">
+  <img src="assets/banner.png" alt="SumUp online and in-person payments">
+</a>
 
 - [Developer portal](https://developer.sumup.com/)
 - [Careers at SumUp](https://www.sumup.com/careers/)
@@ -22,7 +22,7 @@
 - [Android Tap To Pay](https://github.com/sumup/sumup-android-tap-to-pay)
 - [iOS](https://github.com/sumup/sumup-ios-sdk)
 
-## Developer tools
+## Developer Tools
 
 - [SumUp Developer Portal](https://github.com/sumup/sumup-developer)
 - [Postman collection](https://github.com/sumup/sumup-postman), also available within [Postman's API network](https://www.postman.com/sumupengineering/sumup-developers)
