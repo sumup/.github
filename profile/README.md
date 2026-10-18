@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/payments-sky-rounded.png" alt="SumUp online and in-person payments" width="600">
+</p>
 
 - [Developer portal](https://developer.sumup.com/)
 - [Careers at SumUp](https://www.sumup.com/careers/)
