@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/payments-sky-rounded.png" alt="SumUp online and in-person payments" width="600">
+  <img src="assets/payments-sky-rounded.png" alt="SumUp online and in-person payments" width="480">
 </p>
 
 - [Developer portal](https://developer.sumup.com/)
